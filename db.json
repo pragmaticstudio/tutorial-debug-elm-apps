@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Vintage Tee"
+    },
+    {
+      "id": 2,
+      "name": "Body Scrub"
+    },
+    {
+      "id": 3,
+      "name": "Signature Coffee"
+    },
+    {
+      "id": 4,
+      "name": "Beard Oil"
+    },
+    {
+      "id": 5,
+      "name": "Beef Brisket Sauce"
+    },
+    {
+      "id": 6,
+      "name": "Loose Leaf Tea"
+    },
+    {
+      "id": 7,
+      "name": "Suspenders"
+    },
+    {
+      "id": 8,
+      "name": "Yukulele"
+    },
+    {
+      "id": 9,
+      "name": "Tea Pot"
+    },
+    {
+      "id": 10,
+      "name": "Diamond Necklace"
+    },
+    {
+      "id": 11,
+      "name": "Scooter"
+    },
+    {
+      "id": 12,
+      "name": "Snorkel Mask"
+    },
+    {
+      "id": 13,
+      "name": "Knife Set"
+    },
+    {
+      "id": 14,
+      "name": "Label Maker"
+    },
+    {
+      "id": 15,
+      "name": "Fleece Socks"
+    },
+    {
+      "id": 16,
+      "name": "Hoodie"
+    },
+    {
+      "id": 17,
+      "name": "Ugly Sweater"
+    },
+    {
+      "id": 18,
+      "name": "Chess Set"
+    },
+    {
+      "id": 19,
+      "name": "Dart Board"
+    },
+    {
+      "id": 20,
+      "name": "Gold Watch"
+    },
+    {
+      "id": 21,
+      "name": "Beard Oil"
+    },
+    {
+      "id": 22,
+      "name": "Beard Oil"
+    },
+    {
+      "id": 23,
+      "name": "Beard Oil"
+    },
+    {
+      "id": 24,
+      "name": "Beard Oil"
+    },
+    {
+      "id": 25,
+      "name": "Beard Oil"
+    }
+  ]
+}
